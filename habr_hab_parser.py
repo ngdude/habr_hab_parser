@@ -4,7 +4,7 @@
 # Last Modified	: 2017
 # Version		: 0.1
 #
-# Description	: Simple script to grab posts list from habrhabr habs.
+# Description	: Script for unloading the list of articles from the hubs of the site Habrahabr
 
 import urllib.request
 from bs4 import BeautifulSoup
